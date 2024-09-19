@@ -108,7 +108,7 @@ def main():
           print(random.choice(alt_lista))
           ajuda -=1
         else:
-          print("você não tem mais ajudas") 
+          print("você não tem mais ajuda") 
       elif answer == "P":
         if pulos >=1:
           pulos -= 1
